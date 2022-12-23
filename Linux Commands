@@ -1,0 +1,32 @@
+mkdir – make directories
+mkdir <DIREECTORY NAME>
+ eg. mkdir vrinda 
+ 
+ ls – list directory contents
+ Usage: ls [OPTION]... [FILE]...
+ ls l 
+ 
+ cd – changes directories
+ Usage: cd [DIRECTORY NAME]
+ Eg. cd vrinda
+ 
+ 
+ rmdir- Remove directories
+ remove directory[ies] if they are empty.
+ Usage: rmdir [DIRECTORY NAME]
+ Eg. rmdir vrinda
+ 
+ 
+ cp – copy
+ copy files and directories
+ Usage: cp [OPTION] SOURCE FILE] [DESTINATION FILE]
+ eg. cp sample.txt sample_copy.txt
+ 
+ 
+ cat- To create file
+Usage: cat > [file name]
+
+
+cat – concatenate files and print on the standard output
+Usage: cat [OPTION] [FILE]...
+eg. cat file1.txt file2.txt 
